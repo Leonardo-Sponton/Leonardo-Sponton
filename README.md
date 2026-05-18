@@ -41,7 +41,7 @@ Por fora, estou construindo minha base para desenvolvimento de software, dividid
 
 ### 📊 Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Leonardo-Sponton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=Leonardo-Sponton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Sponton&layout=compact&theme=dracula&langs_count=7)
+![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Leonardo-Sponton&layout=compact&theme=dracula&langs_count=7)
 
