@@ -12,17 +12,20 @@ Seja bem-vindo ao meu perfil do GitHub. Aqui você vai encontrar a documentaçã
 
 ## 🌌 O Guia do meu Perfil
 
-Para manter o meu aprendizado transparente, escalável e organizado para a faculdade e o mercado, utilizo um sistema de **tags de referência própria** no nome de todos os meus repositórios. Abaixo eu explico cada uma delas:
+Para manter o meu aprendizado transparente, escalável e organizado para a faculdade e o mercado, utilizo um sistema de **tags de referência própria** no nome de todos os meus repositórios. 
+
+> ⚠️ **Padrão de Nomenclatura:** A TAG sempre será escrita em letras maiúsculas (*UPPERCASE*), enquanto o restante do nome do projeto será escrito em letras minúsculas (*lowercase*) e separado por hifens `kebab-case`.
 
 * 🚀 **`PP-` (Personal Project):** Projetos pessoais criados para resolver problemas reais ou testar ideias próprias fora da grade acadêmica.
-    * *Estrutura:* `PP-[nome_projeto]`
+    * *Estrutura:* `PP-nome-projeto`
 * 🎓 **`CP-` (College Project):** Projetos, laboratórios e trabalhos práticos desenvolvidos especificamente para as disciplinas da faculdade.
-    * *Estrutura:* `CP-[nome_projeto]-[ID]`  
+    * *Estrutura:* `CP-nome-projeto-id`  
 * 🧠 **`EL-` (Exercises List):** Repositórios dedicados puramente a listas de exercícios e desafios de plataformas. 
-    * *Estrutura:* `EL-[linguagem]-[ID]`
+    * *Estrutura:* `EL-linguagem-id`
 * ☕ **`MTU-` (MyTechUniverse):** Meu ecossistema de estudo aprofundado e estruturado de tecnologias, evoluindo do básico ao avançado.
-    * *Estrutura:* `MTU-[linguagem]-[ID]-[nome_projeto]`
-    * 📂 Para acessar os repositórios centrais de estudos, basta fazer uma busca por `MyTechUniverse - [linguagem]`.
+    * 🏛️ **Os HUBs Centrais:** Repositórios com o nome `MyTechUniverse - [Linguagem]` ou `MyTechUniverse - [Ferramenta]` funcionam como a central teórica de estudos e anotações.
+    * 🚀 **Os Projetos do HUB:** Quando um projeto prático desenvolvido dentro do HUB cresce e fica robusto, ele ganha um repositório próprio, ficando com a seguinte estrutura: `MTU-linguagem-id-nome-projeto`
+    * 📂 *Para acessar os HUBs centrais de estudos, basta fazer uma busca por `MyTechUniverse` na minha barra de repositórios.*
 
 ---
 
