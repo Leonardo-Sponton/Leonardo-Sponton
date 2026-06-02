@@ -14,17 +14,17 @@ Seja bem-vindo ao meu perfil do GitHub. Aqui você vai encontrar a documentaçã
 
 Para manter o meu aprendizado transparente, escalável e organizado para a faculdade e o mercado, utilizo um sistema de **tags de referência própria** no nome de todos os meus repositórios. 
 
-> ⚠️ **Padrão de Nomenclatura:** A TAG sempre será escrita em letras maiúsculas (*UPPERCASE*), enquanto o restante do nome do projeto será escrito em letras minúsculas (*lowercase*) e separado por hifens `kebab-case`.
+> ⚠️ **Padrão de Nomenclatura:** A TAG sempre será escrita em letras maiúsculas (*UPPERCASE*), enquanto o restante do nome do projeto será escrito em `PascalCase`.
 
 * 🚀 **`PP-` (Personal Project):** Projetos pessoais criados para resolver problemas reais ou testar ideias próprias fora da grade acadêmica.
-    * *Estrutura:* `PP-nome-projeto`
+    * *Estrutura:* `PP-NomeProjeto`
 * 🎓 **`CP-` (College Project):** Projetos, laboratórios e trabalhos práticos desenvolvidos especificamente para as disciplinas da faculdade.
-    * *Estrutura:* `CP-nome-projeto-id`  
+    * *Estrutura:* `CP-NomeProjeto-id`  
 * 🧠 **`EL-` (Exercises List):** Repositórios dedicados puramente a listas de exercícios e desafios de plataformas. 
-    * *Estrutura:* `EL-linguagem-id`
+    * *Estrutura:* `EL-Linguagem-id`
 * ☕ **`MTU-` (MyTechUniverse):** Meu ecossistema de estudo aprofundado e estruturado de tecnologias, evoluindo do básico ao avançado.
     * 🏛️ **Os HUBs Centrais:** Repositórios com o nome `MyTechUniverse - [Linguagem]` ou `MyTechUniverse - [Ferramenta]` funcionam como a central teórica de estudos e anotações.
-    * 🚀 **Os Projetos do HUB:** Quando um projeto prático desenvolvido dentro do HUB cresce e fica robusto, ele ganha um repositório próprio, ficando com a seguinte estrutura: `MTU-linguagem-id-nome-projeto`
+    * 🚀 **Os Projetos do HUB:** Quando um projeto prático desenvolvido dentro do HUB cresce e fica robusto, ele ganha um repositório próprio, ficando com a seguinte estrutura: `MTU-linguagem-id-NomeProjeto`
     * 📂 *Para acessar os HUBs centrais de estudos, basta fazer uma busca por `MyTechUniverse` na minha barra de repositórios.*
 
 ---
