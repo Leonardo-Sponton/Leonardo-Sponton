@@ -12,7 +12,7 @@ Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de apren
 ### 📂 Meus Repositórios
 Para manter meu perfil limpo e direto ao ponto, estruturo meus repositórios de forma orgânica:
 * **Projetos (Pessoais e Faculdade):** Levam o nome da própria aplicação ou sistema (ex: `hemosys-project`). 
-* **Estudos e anotações:** Utilizo o sufixo `-learning` ou `-wiki` como hubs centrais de conhecimento (ex: `java-learning`).
+* **Estudos e anotações:** Utilizo o sufixo `-learning` como hubs centrais de conhecimento (ex: `java-learning`).
 * **Desafios e exercícios:** Nomeados de acordo com a matéria ou plataforma (ex: `data-structures`, `leetcode-solutions`).
 
 *(Dica: Utilize os repositórios fixados abaixo para ver meus trabalhos mais recentes e relevantes. O contexto, status e documentação de cada aplicação estão detalhados em seus respectivos `README.md`).*
