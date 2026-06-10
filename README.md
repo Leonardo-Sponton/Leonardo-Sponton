@@ -1,19 +1,19 @@
-# Olá, eu sou o Leonardo! 👋
+# Hi there, I'm Leonardo! 👋
 
-**Estudante de Análise e Desenvolvimento de Sistemas**
+Welcome to my profile! This is where I document my learning journey and keep my main college projects.
 
-Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de aprendizado, projetos acadêmicos e experimentações com desenvolvimento de software e infraestrutura.
+### 🏛️ About Me
+* 🎓 **Education:** Computing Student at FATEC (2nd Semester)
+* 🐧 **Ecosystem:** Linux (Debian) user
+* 🎯 **Focus:** Backend Development & Databases
 
-### 👨‍💻 Sobre Mim
-* 🎓 **Estudante:** Análise e Desenvolvimento de Sistemas na **Fatec** (2º Semestre).
-* 🐧 **Sistemas:** Usuário e entusiasta do ecossistema **Linux** (Debian).
-* 🎯 **Foco:** Desenvolvimento Backend e Banco de Dados.
+### 🌐 My Profiles
+* **GitHub:** Where I upload my finished college projects and personal assignments.
+* **GitLab:** My daily laboratory for scratchpads, quick exercises, and private drafts. You can check it out [here](https://gitlab.com/lsvinci).
 
----
+### 🛠️ Technologies & Tools
 
-## 🛠️ Tecnologias & Ferramentas
-
-**Stack Atual**
+**Current Stack**
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Linguagem_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de apren
 
 <br>
 
-**Ferramentas**
+**Tools**
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -38,4 +38,4 @@ Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de apren
 
 ---
 
-*Sinta-se à vontade para explorar os repositórios, usar os códigos de estudo e, se algum material te ajudar, não esqueça de deixar uma ⭐️ para apoiar o projeto!*
+*Feel free to explore the repositories, use the study code, and if any material helps you, don't forget to leave a ⭐️ to support the project!*
