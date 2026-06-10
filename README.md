@@ -1,6 +1,6 @@
 # Olá, eu sou o Leonardo! 👋
 
-**Backend Developer | Estudante de Análise e Desenvolvimento de Sistemas**
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
 Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de aprendizado, projetos acadêmicos e experimentações com desenvolvimento de software e infraestrutura.
 
@@ -8,14 +8,6 @@ Bem-vindo ao meu GitHub. Este é o espaço onde documento minha jornada de apren
 * 🎓 **Estudante:** Análise e Desenvolvimento de Sistemas na **Fatec** (2º Semestre).
 * 🐧 **Sistemas:** Usuário e entusiasta do ecossistema **Linux** (Debian).
 * 🎯 **Foco:** Desenvolvimento Backend e Banco de Dados.
-
-### 📂 Meus Repositórios
-Para manter meu perfil limpo e direto ao ponto, estruturo meus repositórios de forma orgânica:
-* **Projetos (Pessoais e Faculdade):** Levam o nome da própria aplicação ou sistema (ex: `hemosys-project`). 
-* **Estudos e anotações:** Utilizo o sufixo `-learning` como hubs centrais de conhecimento (ex: `java-learning`).
-* **Desafios e exercícios:** Nomeados de acordo com a matéria ou plataforma (ex: `data-structures`, `leetcode-solutions`).
-
-*(Dica: Utilize os repositórios fixados abaixo para ver meus trabalhos mais recentes e relevantes. O contexto, status e documentação de cada aplicação estão detalhados em seus respectivos `README.md`).*
 
 ---
 
